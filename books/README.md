@@ -8,4 +8,9 @@ These are the books you could find in this folder:
       <li>02 - <b>Machine Learning For Dummies.</b> John Paul Mueller, Luca Massaron </li>
     </ul>
   </li>
+  <li><b>BIG DATA</b>:</br>
+    <ul>
+      <li>00 - <b>The Data Engineering Cookbook.<i> Mastering The Plumbing Of Data Science</i>.</b> Andreas Kretz</li>
+    </ul>
+  </li>
 </ul>
