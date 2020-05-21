@@ -39,6 +39,12 @@ Interesting links that can be complementary to your learning path
         <li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">UDACITY - Intro to TensorFlow for Deep Learning</a></li>
     </ul>
   </li>
+  <li><b>LEARNING PATH</b> Different ways to learn from yourself
+    <ul>
+      <li><a href="https://moz.com/blog/learning-machine-learning">List of different online courses based on your profile</a></li>
+      <li><a href="https://www.kdnuggets.com/2020/05/designed-machine-learning-ai-degree.html" target="_blank">I designed my own ML & AI degree</a></li>
+    </ul>
+  </li>
   <li><b>GOOGLE CLOUD</b>
     <ul>
       <li><a href="https://cloud.google.com/vision/docs/drag-and-drop">Google Cloud Vision API Demo</a></li>
