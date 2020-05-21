@@ -11,6 +11,7 @@ Interesting links that can be complementary to your learning path
             A really good book with Exercises in Jupyter Notebook to learn Python from scratch.</li>
           <li><a href="https://www.python-course.eu/numerical_programming_with_python.php">Connections between Python, Numpy, Matplotlib, Scipy and Pandas</a><br>
             Easy shema to understand the interelations between libraries.</li>
+          <li><a href="https://www.analyticsvidhya.com/blog/2020/02/everything-you-should-know-scikit-learn/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29">2020-feb News on Scikit Learn</a></li>
         </ul>
       </li>
       <li><b>General Concepts</b>
@@ -36,6 +37,17 @@ Interesting links that can be complementary to your learning path
     <ul>
         <li><a href="https://www.edx.org/es/course/deep-learning-with-tensorflow">EDX - Deep Learning with TensorFlow</a></li>
         <li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">UDACITY - Intro to TensorFlow for Deep Learning</a></li>
+    </ul>
+  </li>
+  <li><b>GOOGLE CLOUD</b>
+    <ul>
+      <li><a href="https://cloud.google.com/vision/docs/drag-and-drop">Google Cloud Vision API Demo</a></li>
+      <li><a href="https://cloud.google.com/video-intelligence">Google Cloud Video AI Demo</a></li>
+    </ul>
+  </li>
+  <li><b>BLOGS</b>
+    <ul>
+      <li><a href="https://netflixtechblog.com/">Netflix Tech Blog</a></li>
     </ul>
   </li>
 </ul>
