@@ -8,7 +8,7 @@ These are the books you could find in this folder:
       <li>02 - <b>Machine Learning For Dummies.</b> John Paul Mueller, Luca Massaron </li>
       <li>03 - <b>Deep Learning with R.</b> François Chollet - Manning </li>
       <li>04 - <b>Python Data Science Handbook</b> Jake Vanderplas - O'reilly <br>
-        Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="blank">github</a> with exercises in Jupyter Notebook</li>
+        Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">github</a> with exercises in Jupyter Notebook</li>
       <li>05 - <b>Python Notes for Professionals</b></li>
     </ul>
   </li>
