@@ -28,7 +28,7 @@ Interesting links that can be complementary to your learning path
       <li><a href="https://www.lavanguardia.com/tecnologia/20190414/461583468024/veripol-policia-nacional-inteligencia-artificial-algoritmo-denuncias-falsas.html">ML applied to detect fake complaints (VeriPol,Spain)</a></li>
       <li><a href="https://www.nytimes.com/2017/10/26/opinion/algorithm-compas-sentencing-bias.html">Compass: the US racist algorithm to send you to the prison</a></li>
       <li><a href="http://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220">AI to find new drugs for antibitic-resistant bacteria</a></li>
-      <li><a href="https://algorithmwatch.org/en/story/poland-government-to-scrap-controversial-unemployment-scoring-system/">Government to scrap controversial unemployment scoring system</a></li>
+      <li><a href="https://algorithmwatch.org/en/story/poland-government-to-scrap-controversial-unemployment-scoring-system/">Poland: Government to scrap controversial unemployment scoring system</a></li>
       <li><a href="https://rapidminer.com/blog/themes-from-wisdom-2020/">Advertising agency using ML to help them target and developing campaigns</a></li>
     </ul>
   </li>
