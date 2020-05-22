@@ -31,6 +31,7 @@ Interesting links that can be complementary to your learning path
       <li><a href="http://news.mit.edu/2020/artificial-intelligence-identifies-new-antibiotic-0220">AI to find new drugs for antibitic-resistant bacteria</a></li>
       <li><a href="https://algorithmwatch.org/en/story/poland-government-to-scrap-controversial-unemployment-scoring-system/">Poland: Government to scrap controversial unemployment scoring system</a></li>
       <li><a href="https://rapidminer.com/blog/themes-from-wisdom-2020/">Advertising agency using ML to help them target and developing campaigns</a></li>
+      <li><a href="https://www.elcomercio.com/tendencias/pandemia-problemas-algoritmos-inteligencia-artificial.html" target="_blank">ML and COVID-19.Inefficient algorithms in new behaviours</a></li>
     </ul>
   </li>
   <li><b>INTERESTING COURSES</b>
