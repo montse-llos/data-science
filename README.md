@@ -1,15 +1,22 @@
 # data-science
-Data Science &amp; Advanced Analytics - EAE Master of Big Data
+Data Science &amp; Machine Learning
 
 
-En este repositorio encontrarás información relativa a Data Science & Advanced Aanlytics
+In this repository you could find information related to Data Science and Machine Learning
 
-Teórico
-
-Práctico
-
-Libros
-
-Links interesantes
-
-Otros
+<ul>
+	<li><b>Books</b>. Free pdf books and some interesting books to buy</br>
+		General concepts of Machine Learning, Programming in Python or R</li>
+	<li><b>Cheat Sheets</b>.<br>
+		Python and R Cheat Sheets in pdf format. Some links with interesting Cheat Cheets</li>
+	<li><b>Links</b>.<br>
+		Links about Machine Laerning universe.
+		To learn more, real use cases, online courses, learning path, AI Google Cloud, Blogs.</li>
+	<li><b>Tips and tricks</b>.<br></li>
+</ul>
+		
+	
+	
+		
+		
+		
