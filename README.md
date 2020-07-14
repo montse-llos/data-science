@@ -12,7 +12,7 @@ In this repository you could find information related to Data Science and Machin
 	<li><b>Good Prograaming</b>.<br>
 		Best practices in programming</li>
 	<li><b>Links</b>.<br>
-		Links about Machine Laerning universe.
+		Links about Machine Learning universe.
 		To learn more, real use cases, online courses, learning path, AI Google Cloud, Blogs.</li>
 	<li><b>Tips and tricks</b>.<br></li>
 </ul>
