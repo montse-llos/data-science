@@ -4,14 +4,13 @@
   <li><b>Pandas library</b>
     <ul>
         <li><a href="https://www.kdnuggets.com/2019/11/speed-up-pandas-4x.html" target="_blank">Speed Up Pandas by 4 using Modin</a></li>
-        <li>Column access into a pandas dataframe:  
-            <a href
-            df.iloc[:,0]: all rows from column 0  
-            df.loc[:,['ColName1']]: all rows from column 'ColName1'
-            df.[['ColName1','ColName2']]: new dataframe with 'ColName1' and 'ColName2'
-          </ul>  
-      
-        </li>
+        <li>Column access into a pandas dataframe:</li>
+          <ul>
+            <li><img src="https://github.com/montse-llos/data-science/blob/master/tips-and-tricks/pandas-selections-and-indexing.png"></li>
+            <li>df.iloc[:,0]: all rows from column 0  </li>
+            <li>df.loc[:,['ColName1']]: all rows from column 'ColName1'</li>
+            <li>df.[['ColName1','ColName2']]: new dataframe with 'ColName1' and 'ColName2'</li>
+         </ul>
     </ul>
   </li>
   <li><b>R</li>
