@@ -25,7 +25,7 @@
         </ul>
       <li><b>Mapping</b>:</li>
         <ul>
-          level_map = {1: 'high', 2: 'medium', 3: 'low'}  
+          level_map = {1: 'high', 2: 'medium', 3: 'low'}</br>  
           df['c_level'] = df['c'].map(level_map)
         </ul>  
     </ul>
