@@ -23,11 +23,29 @@
           <li>df_new = df => df_new is a reference to df (changes in df are reflected into df_new)y</li>
           <li>df_new = df.copy() => df_new is a new copy of df (changes in df are not reflected into df_new)</li>
         </ul>
-      <li><b>Mapping</b>:</li>
+      <li><b>Mapping</b> to do easy data transformations:</li>
         <ul>
           level_map = {1: 'high', 2: 'medium', 3: 'low'}</br>  
           df['c_level'] = df['c'].map(level_map)
-        </ul>  
+        </ul>
+      <li>df['Gender'].value_counts() => 'Gender' <b>distribution, or value counts</b>
+        <ul>
+          <li> normalize = True => if you want to check the frequency instead of counts.</li>
+          <li> dropna = False => if you also want to include missing values in the stats.</li>
+          <li> df[''Gender'].value_counts().reset_index() => if you want to convert the stats table into a pandas dataframe and manipulate it.</li>
+          <li> df[''Gender'].value_counts().sort_index() => show the stats sorted by distinct values in column ‘Gender’ instead of counts.</li>
+        </ul>
+      <li> df[['c1', 'c2']].isnull().sum(axis=1) => Counts <b>missing values<(b> into c1 and c2 columns</li>
+      <li> <b>Filter</b>:</li>
+        <ul>
+          df_filter = df['ID'].isin(['A001','C022',...])
+          df[df_filter]
+        </ul>
+      <li><b>Data Types</b>:
+        <ul>
+          <li> df.dtypes.value_counts() => Returns number of columns for each data type</li>
+          <li> df.dtypes.value_counts() => Returns number of columns for each data type</li>
+        </ul>
     </ul>
   </li>
   <li><b>R</li>
