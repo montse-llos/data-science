@@ -32,6 +32,7 @@ Interesting links that can be complementary to your learning path
       <li><a href="https://algorithmwatch.org/en/story/poland-government-to-scrap-controversial-unemployment-scoring-system/">Poland: Government to scrap controversial unemployment scoring system</a></li>
       <li><a href="https://rapidminer.com/blog/themes-from-wisdom-2020/">Advertising agency using ML to help them target and developing campaigns</a></li>
       <li><a href="https://www.elcomercio.com/tendencias/pandemia-problemas-algoritmos-inteligencia-artificial.html" target="_blank">ML and COVID-19.Inefficient algorithms in new behaviours</a></li>
+      <li><a href="https://www.youtube.com/watch?v=tPb2u9kwh2w&feature=youtu.be&app=desktop" target="_blank">AirBnb & Tensorflow usage</a></li>
     </ul>
   </li>
   <li><b>INTERESTING COURSES</b>
