@@ -1,4 +1,5 @@
 # Tips and Tricks
+To view my notes you need a free account on <a href="https://www.evernote.com/Login.action" target="_blank">Evernote </a>  
 
 <ul>
   <li><b>Pandas library </b>
