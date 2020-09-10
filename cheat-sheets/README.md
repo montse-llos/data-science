@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-Interesting Cheat Sheets on R & Python programming. Also Anaconda and Jupyter Notebook Cheat Sheets.  
+Useful Cheat Sheets on R & Python programming. Also Anaconda and Jupyter Notebook Cheat Sheets.  
   
 You can find a Markdown Cheat Sheet to write into markdown cells in Jupyter Notebook <a href="https://github.com/montse-llos/data-science/blob/master/cheat-sheets/markdown-cheat-sheet.png" target="_blank">here</a>. Notice that you can use also HTML sentences to put format into the lines written. If you want a line break you have to write two spaces (this means line break into Markdown code)
 
