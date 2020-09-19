@@ -10,6 +10,7 @@ These are the books you could find in this folder:
       <li>04 - <b>Python Data Science Handbook</b> Jake Vanderplas - O'reilly <br>
         Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">github</a> with exercises in Jupyter Notebook</li>
       <li>05 - <b>Python Notes for Professionals</b></li>
+  <li>06 - <b>Python Deep Learning. <i>Introducción práctica con Keras y TensorFlow 2</i></b> Jordi Torres - Marcombo</li>
     </ul>
   </li>
   <li><b>BIG DATA</b>:</br>
