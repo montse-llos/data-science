@@ -38,7 +38,7 @@ To view my notes you need a free account on <a href="https://www.evernote.com/Lo
         <li><a href="https://www.evernote.com/shard/s506/nl/219038697/39115c4f-d77e-2c5d-1b03-30fa42b8fc0b?title=Python%20-%20Save%20models" target="_blank">My notes</a></li>
     </ul>
   </li>
-  <li><b>R</li>
+  <li><b>R</b></li>
     <ul>
         <li><a href="https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages">List of useful Rpackages</a>   </li>
     </ul>
