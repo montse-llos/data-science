@@ -43,4 +43,10 @@ To view my notes you need a free account on <a href="https://www.evernote.com/Lo
         <li><a href="https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages">List of useful Rpackages</a>   </li>
     </ul>
   </li>
+  <li><b>How make clustering with categorical data</b>
+    <ul>
+        <li><a href="https://www.evernote.com/shard/s506/sh/aa278b51-2ccd-9b0c-5081-24ad213923de/00cbd171dd801ffa66c131a8323a503d">My notes</a></li>
+    </ul>
+  </li>
+  
 </ul>
