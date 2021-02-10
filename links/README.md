@@ -63,6 +63,11 @@ Interesting links that can be complementary to your learning path
       <li><a href="https://netflixtechblog.com/">Netflix Tech Blog</a></li>
     </ul>
   </li>
+  <li><b>PUBLIC DATASETS</b>
+    <ul>
+      <li><a href="https://paperswithcode.com/datasets">Papers with code</a></li>
+    </ul>
+  </li>
 </ul>
         
   
