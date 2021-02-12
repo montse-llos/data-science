@@ -19,6 +19,7 @@ Interesting links that can be complementary to your learning path
           <li><a href="https://www.youtube.com/user/joshstarmer">Statistics and Machine Learning (StatQuest)</a><br>
             Machine Learning concepts explained very easy.</li>
           <li><a href="https://www.youtube.com/watch?v=EuBBz3bI-aA&feature=youtu.be">Understanding Bias & Variance - StatQuest</a></li>
+          <li><a href="https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg">Dot CSV - Videos Inteligencia Artificial (Spanish) - StatQuest</a></li>
         </ul>
       </li>
     </ul>
