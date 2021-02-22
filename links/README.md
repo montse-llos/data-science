@@ -59,9 +59,10 @@ Interesting links that can be complementary to your learning path
       Interesting videos on Machine Learning by Google Cloud Platfom. Easy to understand</li>
     </ul>
   </li>
-  <li><b>BLOGS</b>
+  <li><b>BLOGS, PODCASTS,...</b>
     <ul>
       <li><a href="https://netflixtechblog.com/">Netflix Tech Blog</a></li>
+      <li><a href="https://blog.feedspot.com/ai_podcasts/">Los 10 mejores podcasts de IA en 2021 (english)</a></li>
     </ul>
   </li>
   <li><b>PUBLIC DATASETS</b>
