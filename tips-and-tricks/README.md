@@ -48,5 +48,11 @@ To view my notes you need a free account on <a href="https://www.evernote.com/Lo
         <li><a href="https://www.evernote.com/shard/s506/sh/aa278b51-2ccd-9b0c-5081-24ad213923de/00cbd171dd801ffa66c131a8323a503d">My notes</a></li>
     </ul>
   </li>
+  <li><b>Image treatment</b>
+    <ul>
+        <li><a href="https://medium.datadriveninvestor.com/speed-up-your-image-training-on-google-colab-dc95ea1491cf">Speed up image training in Google Colab</a></li>
+    </ul>
+  </li>
+  
   
 </ul>
