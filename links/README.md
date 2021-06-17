@@ -59,7 +59,6 @@ Interesting links that can be complementary to your learning path
       <li><a href="https://www.youtube.com/watch?v=D5VN56jQMWM">Google Duplex: AI assistant call</a></li>      
       <li><a href="https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2" target="_blank">AI Adventures</a></br>
       Interesting videos on Machine Learning by Google Cloud Platfom. Easy to understand</li>
-      
     </ul>
   </li>
   <li><b>BLOGS, PODCASTS,...</b>
