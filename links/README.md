@@ -56,7 +56,8 @@ Interesting links that can be complementary to your learning path
       <li><a href="https://cloud.google.com/vision/docs/drag-and-drop">Google Cloud Vision API Demo</a></li>
       <li><a href="https://cloud.google.com/video-intelligence">Google Cloud Video AI Demo</a></li>
       <li><a href="https://cloud.google.com/natural-language#natural-language-api-demo">Google Cloud Natural Language API Demo</a></li>      
-      <li><a href="https://cloud.google.com/vision/product-search/docs">Vision API Product Search</a>. Allows retailers to create products, each containing reference images that visually describe the product from a set of viewpoints</li>      
+      <li><a href="https://cloud.google.com/vision/product-search/docs">Vision API Product Search</a></br> 
+      Allows retailers to create products, each containing reference images that visually describe the product from a set of viewpoints</li>      
       <li><a href="https://www.youtube.com/watch?v=D5VN56jQMWM">Google Duplex: AI assistant call</a></li>      
       <li><a href="https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2" target="_blank">AI Adventures</a></br>
       Interesting videos on Machine Learning by Google Cloud Platfom. Easy to understand</li>
