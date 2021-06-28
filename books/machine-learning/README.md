@@ -8,4 +8,5 @@
   <li>04 - <b>Python Data Science Handbook</b> Jake Vanderplas - O'reilly <br>
     Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">github</a> with exercises in Jupyter Notebook</li>
   <li>05 - <b>Python Notes for Professionals</b></li>
+  <li>06 - <b>Data Science for Economics and Finances</b></li>
 </ul>
