@@ -20,6 +20,7 @@ Interesting links that can be complementary to your learning path
             Machine Learning concepts explained very easy.</li>
           <li><a href="https://www.youtube.com/watch?v=EuBBz3bI-aA&feature=youtu.be">Understanding Bias & Variance - StatQuest</a></li>
           <li><a href="https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg">Dot CSV - Videos Inteligencia Artificial (Spanish)</a></li>
+          <li><a href="https://christophm.github.io/interpretable-ml-book/">Explainability in ML</a></li>
         </ul>
       </li>
     </ul>
