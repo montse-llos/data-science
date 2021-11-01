@@ -9,4 +9,5 @@
     Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">github</a> with exercises in Jupyter Notebook</li>
   <li>05 - <b>Python Notes for Professionals</b></li>
   <li>06 - <b>Data Science for Economics and Finances</b></li>
+  <li>07 - <b>The Python Handbook</b></li>
 </ul>
