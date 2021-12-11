@@ -45,7 +45,7 @@ Interesting links that can be complementary to your learning path
     <ul>
         <li><a href="https://www.edx.org/es/course/deep-learning-with-tensorflow">EDX - Deep Learning with TensorFlow</a></li>
         <li><a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">UDACITY - Intro to TensorFlow for Deep Learning</a></li>
-        <li><a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG"Making Friends with Machine Learning - Cassie Kozyrkov</a></li>
+        <li><a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG">Making Friends with Machine Learning - Cassie Kozyrkov</a></li>
     </ul>
   </li>
   <li><b>LEARNING PATH</b> Different ways to learn from yourself
