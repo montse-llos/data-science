@@ -12,6 +12,7 @@ Interesting links that can be complementary to your learning path
           <li><a href="https://www.python-course.eu/numerical_programming_with_python.php">Connections between Python, Numpy, Matplotlib, Scipy and Pandas</a><br>
             Easy shema to understand the interelations between libraries.</li>
           <li><a href="https://www.analyticsvidhya.com/blog/2020/02/everything-you-should-know-scikit-learn/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29">2020-feb News on Scikit Learn</a></li>
+          <li><a href="https://ellibrodepython.com/">El libro de Python</a></li>
         </ul>
       </li>
       <li><b>General Concepts</b>
