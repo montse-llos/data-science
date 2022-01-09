@@ -10,9 +10,8 @@ These are the books you could find in this folder:
       <li>04 - <b>Python Data Science Handbook</b> Jake Vanderplas - O'reilly <br>
         Linked to <a href="https://github.com/jakevdp/PythonDataScienceHandbook" target="_blank">github</a> with exercises in Jupyter Notebook</li>
       <li>05 - <b>Python Notes for Professionals</b></li>
-  <li>06 - <b>Python Deep Learning. <i>Introducción práctica con Keras y TensorFlow 2</i></b> Jordi Torres - Marcombo</li>
-  <li>07 - <a href="https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html" target="_blank">The best 100 Machine Learning ebooks</a></li>
-  
+      <li>06 - <b>Python Deep Learning. <i>Introducción práctica con Keras y TensorFlow 2</i></b> Jordi Torres - Marcombo</li>
+      <li>07 - <a href="https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html" target="_blank">The best 100 Machine Learning ebooks</a></li>
     </ul>
   </li>
   <li><b>BIG DATA</b>:</br>
