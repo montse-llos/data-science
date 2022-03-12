@@ -10,4 +10,5 @@
   <li>05 - <b>Python Notes for Professionals</b></li>
   <li>06 - <b>Data Science for Economics and Finances</b></li>
   <li>07 - <b>The Python Handbook</b></li>
+  <li>08 - <b>Deep Learning on Graphs</b></li>
 </ul>
